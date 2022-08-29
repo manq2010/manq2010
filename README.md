@@ -30,23 +30,15 @@
 
 <!-- <a href="https://dev.to/didierganthier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="didierganthier" height="30" width="40" /></a> -->
 
-<a href="https://twitter.com/mancona_c_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="didierganthier_" height="30" width="40" /></a>
-
+<a href="https://twitter.com/mancoba_c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="didierganthier_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/didierganthier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="didierganthier" height="30" width="40" /></a>
-
 <a href="https://stackoverflow.com/users/didier-peran-ganthier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="didier-peran-ganthier" height="30" width="40" /></a>
-
 <a href="https://kaggle.com/didierganthier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="didierganthier" height="30" width="40" /></a>
-
 <a href="https://fb.com/ganthier.didier.79" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ganthier.didier.79" height="30" width="40" /></a>
-
 <a href="https://instagram.com/didierganthier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="didierganthier" height="30" width="40" /></a>
-
 <a href="https://dribbble.com/didierganthier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="didierganthier" height="30" width="40" /></a>
-
 <a href="https://medium.com/@didierganthierperan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@didierganthierperan" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/didierganthierp1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="didierganthierp1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/didierganthierp1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mancobasihlongonyane" height="30" width="40" /></a>
 <a href="https://discord.gg/9061" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="9061" height="30" width="40" /></a>
 </p>
 
