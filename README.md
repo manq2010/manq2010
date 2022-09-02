@@ -2,9 +2,9 @@
 
 <h3 align="center">Always deliver more than expected, be good to people and trust God always</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=didierganthier&label=Profile%20views&color=0e75b6&style=flat" alt="didierganthier" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manq2010&label=Profile%20views&color=0e75b6&style=flat" alt="mancobasihlongonyane" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=didierganthier" alt="didierganthier" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manq2010" alt="mancobasihlongonyane" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mancoba_c" target="blank"><img src="https://img.shields.io/twitter/follow/mancoba_c?logo=twitter&style=for-the-badge" alt="mancobasihlongonyane" /></a> </p>
 
