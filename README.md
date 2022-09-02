@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=didierganthier" alt="didierganthier" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/didierganthier_" target="blank"><img src="https://img.shields.io/twitter/follow/didierganthier_?logo=twitter&style=for-the-badge" alt="didierganthier_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mancoba_c_" target="blank"><img src="https://img.shields.io/twitter/follow/mancoba_c_?logo=twitter&style=for-the-badge" alt="mancobasihlongonyane" /></a> </p>
 
 > You can ping me or follow me on Twitter :+1:
 
-[![Tweet for help](https://img.shields.io/twitter/follow/mbeaudru?label=Tweet%20%40mbeaudru&style=social)](https://twitter.com/mancoba_c/)
+[![Tweet for help](https://img.shields.io/twitter/follow/mancoba_c?label=Tweet%20%40mancoba_c&style=social)](https://twitter.com/mancoba_c/)
 
 # Modern
 
