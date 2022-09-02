@@ -8,6 +8,21 @@
 
 <p align="left"> <a href="https://twitter.com/didierganthier_" target="blank"><img src="https://img.shields.io/twitter/follow/didierganthier_?logo=twitter&style=for-the-badge" alt="didierganthier_" /></a> </p>
 
+> You can ping me or follow me on Twitter :+1:
+
+[![Tweet for help](https://img.shields.io/twitter/follow/mbeaudru?label=Tweet%20%40mbeaudru&style=social)](https://twitter.com/mancoba_c/)
+
+# Modern
+
+## Introduction
+
+## Table of Contents
+
+- [Modern](#modern)
+  - [Introduction](#introduction)
+
+> **Note:** Technically, *let* and *const* variables declarations are being hoisted too, but not their assignation.
+
 - 🔭 I’m currently working on Spotlight [Spotlight](https://github.com/Vizyone/Spotlight-Flutter)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, Python**
