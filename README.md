@@ -12,7 +12,6 @@
 
 [![Tweet for help](https://img.shields.io/twitter/follow/mancoba_c?label=Tweet%20%40mancoba_c&style=social)](https://twitter.com/mancoba_c/)
 
-
 # Modern
 
 ## Introduction
@@ -23,6 +22,16 @@
   - [Introduction](#introduction)
 
 > **Note:** Technically, *let* and *const* variables declarations are being hoisted too, but not their assignation.
+
+<hr>
+
+```bash
+
+git@github.com:manq2010/manq2010.git
+```
+
+* [ ] ISSUE_TEMPLATE/
+* [ ] ISSUE_TEMPLATE_ONE/
 
 - 🔭 I’m currently working on Spotlight [Spotlight](https://github.com/Vizyone/Spotlight-Flutter)
 
@@ -66,3 +75,6 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=didierganthier&show_icons=true&locale=en" alt="didierganthier" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=didierganthier&" alt="didierganthier" /></p> -->
+
+---
+<sub> Want to contribute to this page? See my [source code here](README.md) :rocket:</sub>
