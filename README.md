@@ -26,15 +26,15 @@
 
 ## <p align="center">My Professional Stats</p>
 
-### <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manq2010&langs_count=8&hide=shell&layout=compact)](https://github.com/manq2010/github-readme-stats)</p>
+### <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manq2010&langs_count=8&hide=shell&layout=compact&theme=radical)](https://github.com/manq2010/github-readme-stats)</p>
 
 &nbsp;
 
-### <p align="center">[![My Steak Stats](https://github-readme-streak-stats.herokuapp.com/?user=manq2010)](https://github.com/manq2010/github-readme-stats)</p>
+### <p align="center">[![My Steak Stats](https://github-readme-streak-stats.herokuapp.com/?user=manq2010&theme=radical)](https://github.com/manq2010/github-readme-stats)</p>
 
 &nbsp;
 
-### <p align="center">[![Mancoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=manq2010&hide=contribs,prs&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/manq2010/github-readme-stats)</p>
+### <p align="center">[![Mancoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=manq2010&hide=contribs,prs&repo=github-readme-stats&theme=radical)](https://github.com/manq2010/github-readme-stats)</p>
 
 &nbsp;
 
