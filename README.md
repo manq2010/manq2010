@@ -1,24 +1,30 @@
-# <p align="center">Hi 👋, I'm ![Mancoba](https://img.shields.io/badge/Mancoba-Sihlongonyane-blue)</p>
+## <p align="center">Hi 👋, I'm ![Mancoba](https://img.shields.io/badge/Mancoba-Sihlongonyane-blue)</p>
 
 <p align="center">
   <img src="profile_pic.jpeg" alt="mancobasihlongonyane"  width="350" height="450"/>
 </p>
 
-<h3 align="center">Welome To My Profile</h3>
+### <p align="center">Welome To My Profile</p>
 
-## <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manq2010&langs_count=8&hide=shell&layout=compact)](https://github.com/manq2010/github-readme-stats)</p>
+💻 I am an upcoming ***Software Engineer*** with ...
 
-&nbsp;
+### <p align="center">My Professional Stats</p>
 
-## <p align="center">[![My Steak Stats](https://github-readme-streak-stats.herokuapp.com/?user=manq2010)](https://github.com/manq2010/github-readme-stats)</p>
-
-&nbsp;
-
-## <p align="center">[![Mancoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=manq2010&hide=contribs,prs&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/manq2010/github-readme-stats)</p>
+#### <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manq2010&langs_count=8&hide=shell&layout=compact)](https://github.com/manq2010/github-readme-stats)</p>
 
 &nbsp;
 
-## Languages
+#### <p align="center">[![My Steak Stats](https://github-readme-streak-stats.herokuapp.com/?user=manq2010)](https://github.com/manq2010/github-readme-stats)</p>
+
+&nbsp;
+
+#### <p align="center">[![Mancoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=manq2010&hide=contribs,prs&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/manq2010/github-readme-stats)</p>
+
+&nbsp;
+
+### Technical Skills
+
+#### Languages
 
 &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,13 +35,13 @@
 &nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
 
-## Database
+#### Database
 
 &nbsp;
 ![MANGODB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 &nbsp;
 
-## Frameworks
+#### Frameworks
 
 &nbsp;
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -45,7 +51,7 @@
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;
 
-## IDE
+#### IDE
 
 &nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) &nbsp;
@@ -58,19 +64,19 @@ You can use &exclude_repo=repo1,repo2 parameter to exclude individual repositori
 <!-- To hide any specific stats, you can pass a query parameter `&hide=` with comma-separated values.
 Options: `&hide=stars,commits,prs,issues,contribs` -->
 
-## About Me
+### About Me
 
-## Educational Qualifications
+#### Educational Qualifications
 
 I have Completed:
 
 - National Diploma in Power Engineering in 2015!
 
-## Hobbies
+#### Hobbies
 
 - I love to jog
 
-## You can find Me On
+#### You can find Me On
 
 &nbsp;
 <a target="_blank"
