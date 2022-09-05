@@ -1,7 +1,7 @@
 # <p align="center">Hi 👋, I'm ![Mancoba](https://img.shields.io/badge/Mancoba-Sihlongonyane-blue)</p>
 
 <p align="center">
-  <img src="profile_pic.jpeg" alt="mancobasihlongonyane"  width="400" height="400"/>
+  <img src="profile_pic.jpeg" alt="mancobasihlongonyane"  width="350" height="450"/>
 </p>
 
 <h3 align="center">Welome To My Profile</h3>
