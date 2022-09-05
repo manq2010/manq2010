@@ -1,21 +1,25 @@
 <h1 align="center">Hi 👋, I'm Mancoba Sihlongonyane</h1>
 
-===
-
 <p align="center">
-  <img src="profile_pic.jpeg" width="400" height="700"/>
+  <img src="profile_pic.jpeg" alt="mancobasihlongonyane"  width="400" height="400"/>
 </p>
-
-===
 
 <h3 align="center">Welome To My Profile</h3>
 
-===
+## <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manq2010&langs_count=8&hide=shell&layout=compact)](https://github.com/manq2010/github-readme-stats)</p>
 
-## <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manq2010&langs_count=8&hide=javascript,html&layout=compact)](https://github.com/manq2010/github-readme-stats)</p>
 &nbsp;
 
-===
+## <p align="center">[![My Steak Stats](https://github-readme-streak-stats.herokuapp.com/?user=manq2010)](https://github.com/manq2010/github-readme-stats)</p>
+
+&nbsp;
+
+## <p align="center">[![Mancoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=manq2010&hide=contribs,prs&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)]<p>
+
+&nbsp;
+
+<!-- To hide any specific stats, you can pass a query parameter `&hide=` with comma-separated values.
+Options: `&hide=stars,commits,prs,issues,contribs` -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manq2010&label=Profile%20views&color=0e75b6&style=flat" alt="mancobasihlongonyane" /> </p>
 
@@ -45,8 +49,8 @@
 git@github.com:manq2010/manq2010.git
 ```
 
-* [ ] ISSUE_TEMPLATE/
-* [ ] ISSUE_TEMPLATE_ONE/
+- [ ] ISSUE_TEMPLATE/
+- [ ] ISSUE_TEMPLATE_ONE/
 
 - 🔭 I’m currently working on Spotlight [Spotlight](https://github.com/Vizyone/Spotlight-Flutter)
 
