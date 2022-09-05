@@ -1,7 +1,4 @@
-&nbsp;
-![Mancoba](https://img.shields.io/badge/Mancoba-Sihlongonyane-blue)
-
-<h1 align="center">Hi 👋, I'm Mancoba Sihlongonyane</h1>
+<h1 align="center">Hi 👋, I'm [![Mancoba](https://img.shields.io/badge/Mancoba-Sihlongonyane-blue)]</h1>
 
 <p align="center">
   <img src="profile_pic.jpeg" alt="mancobasihlongonyane"  width="400" height="400"/>
