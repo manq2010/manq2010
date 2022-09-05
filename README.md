@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mancoba Sihlongonyane</h1>
 
-<h3 align="center">Always deliver more than expected, be good to people and trust God always</h3>
+===
+
+<p align="center">
+  <img src="profile_pic.jpeg" width="400" height="700"/>
+</p>
+
+===
+
+<h3 align="center">Welome To My Profile</h3>
+
+===
+
+## <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manq2010&langs_count=8&hide=javascript,html&layout=compact)](https://github.com/manq2010/github-readme-stats)</p>
+&nbsp;
+
+===
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manq2010&label=Profile%20views&color=0e75b6&style=flat" alt="mancobasihlongonyane" /> </p>
 
