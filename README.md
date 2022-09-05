@@ -190,3 +190,7 @@ git@github.com:manq2010/manq2010.git
 
 ---
 <sub> Want to contribute to this page? See my [source code here](README.md)</sub>
+
+<!-- https://github.com/anuraghazra/github-readme-stats#themes -->
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
