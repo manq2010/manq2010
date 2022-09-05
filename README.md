@@ -1,3 +1,5 @@
+![Mancoba]<https://img.shields.io/badge/Mancoba-Sihlongonyane-blue>
+
 <h1 align="center">Hi 👋, I'm Mancoba Sihlongonyane</h1>
 
 <p align="center">
@@ -14,12 +16,83 @@
 
 &nbsp;
 
-## <p align="center">[![Mancoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=manq2010&hide=contribs,prs&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)]<p>
+## <p align="center">[![Mancoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=manq2010&hide=contribs,prs&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/manq2010/github-readme-stats)</p>
 
 &nbsp;
 
+## <p align="center">![Mancoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=manq2010&hide=contribs,prs&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)<p>
+
+&nbsp;
+
+## Languages
+
+&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
+
+## Database
+
+&nbsp;
+![MANGODB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+&nbsp;
+
+## Frameworks
+
+&nbsp;
+![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+&nbsp;
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+&nbsp;
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+&nbsp;
+
+## IDE
+
+&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) &nbsp;
+&nbsp;
+![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) &nbsp;
+
+<!-- Exclude individual repositories from top languages
+You can use &exclude_repo=repo1,repo2 parameter to exclude individual repositories. -->
+
 <!-- To hide any specific stats, you can pass a query parameter `&hide=` with comma-separated values.
 Options: `&hide=stars,commits,prs,issues,contribs` -->
+
+## About Me
+
+## Educational Qualifications
+
+I have Completed:
+
+- National Diploma in Power Engineering in 2015!
+
+## Hobbies
+
+- I love to jog
+
+## You can find Me On
+
+&nbsp;
+<a target="_blank"
+href="https://www.linkedin.com/in/mancoba-sihlongonyane-99357970/"><img
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
+&nbsp;
+<a target="_blank"
+href="https://twitter.com/mancoba_c"><img
+src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>  
+&nbsp;
+<a target="_blank"
+href="mailto:manq2010@gmail.com"><img
+src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
+&nbsp;
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manq2010&label=Profile%20views&color=0e75b6&style=flat" alt="mancobasihlongonyane" /> </p>
 
