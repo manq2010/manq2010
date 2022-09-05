@@ -1,4 +1,5 @@
-![Mancoba]<https://img.shields.io/badge/Mancoba-Sihlongonyane-blue>
+&nbsp;
+![Mancoba](https://img.shields.io/badge/Mancoba-Sihlongonyane-blue)
 
 <h1 align="center">Hi 👋, I'm Mancoba Sihlongonyane</h1>
 
@@ -17,10 +18,6 @@
 &nbsp;
 
 ## <p align="center">[![Mancoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=manq2010&hide=contribs,prs&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/manq2010/github-readme-stats)</p>
-
-&nbsp;
-
-## <p align="center">![Mancoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=manq2010&hide=contribs,prs&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)<p>
 
 &nbsp;
 
@@ -89,10 +86,8 @@ src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitt
 &nbsp;
 <a target="_blank"
 href="mailto:manq2010@gmail.com"><img
-src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
+src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &nbsp;
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manq2010&label=Profile%20views&color=0e75b6&style=flat" alt="mancobasihlongonyane" /> </p>
 
