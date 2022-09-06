@@ -94,7 +94,7 @@ I have Completed
 
 ### Hobbies
 
-* I love to jog
+* I love to jog when i am free
 
 ---
 
