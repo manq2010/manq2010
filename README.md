@@ -98,11 +98,25 @@ I have Completed
 
 ---
 
+<details close>
+  <summary><span style="font-size: 24px; font-weight: 700;">Note for Mancoba </span></summary>
+  <br>
+
+**Warning**: A note for Mancoba participants:
+
+> Pull requests which add or edit your information in.
+>
+> Pull requests which improve the codebase
+
+</details>
+
+---
+
 ## <p align="center">Connect With Me</p>
 
 &nbsp;
 <a target="_blank"
-href="https://www.linkedin.com/in/mancoba-sihlongonyane-99357970/"><img
+href="https://www.linkedin.com/in/mancobasihlongonyane/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
 &nbsp;
 <a target="_blank"
