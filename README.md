@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manq2010&label=Profile%20views&color=0e75b6&style=flat" alt="mancobasihlongonyane" /> </p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manq2010&theme=radical&no-frame=true" alt="mancobasihlongonyane" /></a> </p>
 
 <!-- > You can ping me or follow me on Twitter :+1: -->
@@ -14,6 +15,8 @@
 
 <p align="center">
   <img src="profile_pic.jpeg" alt="mancobasihlongonyane"  width="400" height="550"/>
+
+
 </p>
 
 ---
@@ -128,6 +131,12 @@ href="mailto:manq2010@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &nbsp;
 
+---
+License
+---
+
+Mancoba is [MIT licensed](LICENSE).
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=manq2010&label=Profile%20views&color=0e75b6&style=flat" alt="mancobasihlongonyane" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manq2010" alt="mancobasihlongonyane" /></a> </p> -->
@@ -205,6 +214,9 @@ git@github.com:manq2010/manq2010.git
 ---
 <sub> Want to contribute to this page? See my [source code here](README.md)</sub>
 
+
+
 <!-- https://github.com/anuraghazra/github-readme-stats#themes -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+
