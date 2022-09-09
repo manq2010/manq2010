@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manq2010&label=Profile%20views&color=0e75b6&style=flat" alt="mancobasihlongonyane" /> </p>
 
+> [Link to my Bio](https://linkfree.eddiehub.io/manq2010)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manq2010&theme=radical&no-frame=true" alt="mancobasihlongonyane" /></a> </p>
 
@@ -7,7 +8,7 @@
 
 [![Tweet for help](https://img.shields.io/twitter/follow/mancoba_c?label=Tweet%20%40mancoba_c&style=social)](https://twitter.com/mancoba_c/)
 
-📫 : **manq2010@gmail.com**
+> 📫 : **manq2010@gmail.com**
 
 ---
 
