@@ -12,7 +12,10 @@
 
 ---
 
-# <p align="center">Hi 👋, I'm ![Mancoba](https://img.shields.io/badge/Mancoba-Sihlongonyane-blue)</p>
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Hi%20👋,%20I'm%20Mancoba&fontSize=70&animation=twinkling)
+
+---
+<!-- # <p align="center">Hi 👋, I'm ![Mancoba](https://img.shields.io/badge/Mancoba-Sihlongonyane-blue)</p> -->
 
 <p align="center">
   <img src="profile_pic.jpeg" alt="mancobasihlongonyane"  width="400" height="550"/>
