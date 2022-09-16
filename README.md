@@ -27,7 +27,9 @@
 
 ## <p align="center" style="color: green">Welcome To My Profile</p>
 
-💻 I am an upcoming ***Software Engineer*** with ...
+💻 I am an upcoming **Software Engineer** with is currently pursuing his Full-Stack Development Programme with Microverse. I enjoy working on software-related projects and also working with diverse personalities. 
+
+
 
 ---
 
@@ -217,6 +219,11 @@ git@github.com:manq2010/manq2010.git
 
 ---
 <sub> Want to contribute to this page? See my [source code here](README.md)</sub>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mancobasihlongonyane" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://za.linkedin.com/in/mancobasihlongonyane?trk=profile-badge">Mancoba Sihlongonyane</a></div>
+              
 
 
 
