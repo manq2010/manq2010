@@ -23,7 +23,7 @@
 
 ## <p align="center" style="color: green">Welcome To My Profile</p>
 
-💻 Hi! My name is Mancoba, I’m a **Software Engineer** currently pursuing coursework at  Microverse, a remote software development program that uses pair programming and project building to teach development.
+💻💻 I’m a **Software Engineer** currently pursuing coursework at  Microverse, a remote software development program that uses pair programming and project building to teach development.
 
 For four years, I was an IT Business Services Specialist. Each day, I worked with vendors from different cultures. So even before I started studying as a developer, I was already good at communication and a pro at working under immense pressure which is some of the skills needed to thrive in software development.
 
