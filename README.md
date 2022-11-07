@@ -118,7 +118,8 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 &nbsp;
 
 ---
-License
+
+## <p align="center">License</p>
 
 ---
 
