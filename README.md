@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manq2010&label=Profile%20views&color=0e75b6&style=flat" alt="mancobasihlongonyane" /> </p>
 
-> [Link to my Bio](https://linkfree.eddiehub.io/manq2010)
+> [**Link to my Bio**](https://linkfree.eddiehub.io/manq2010)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manq2010&theme=radical&no-frame=true" alt="mancobasihlongonyane" /></a> </p>
 
@@ -95,7 +95,7 @@ I have Completed
 
 * National Diploma in Power Engineering in 2015!
 * HTML/CSS with [**Microvere**](https://www.microverse.org/)!
-  > [HTML/CSS Credentials](https://www.credential.net/9b24cf16-27ed-4d95-b05a-2f1a1552f917#gs.i19wnd)
+  > [Credentials](https://www.credential.net/9b24cf16-27ed-4d95-b05a-2f1a1552f917#gs.i19wnd)
 
 ### Hobbies
 
