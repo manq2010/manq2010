@@ -121,7 +121,11 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 
 ---
 License
+
 ---
 
 Mancoba is [MIT licensed](LICENSE).
 
+---
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](CONTRIBUTING.md)._

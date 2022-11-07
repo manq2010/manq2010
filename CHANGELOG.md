@@ -3,11 +3,11 @@
 
 ### Bug Fixes
 
-* minor typo in manq.json ([#1723](https://github.com/<useraname>/<repoName>/issues/1723)) ([02a488b](https://github.com/<useraname>/<repoName>/commit/xxxxx))
+* minor typo in manq2010.json ([#1723](https://github.com/<useraname>/<repoName>/issues/1723)) ([02a488b](https://github.com/<useraname>/<repoName>/commit/xxxxx))
 
 
 
-## [0.73.3](https://github.com/EddieHubCommunity/LinkFree/compare/v0.73.2...v0.73.3) (2022-09-04)
+## [0.73.3](https://github.com/manq2010/v0.73.2...v0.73.3) (2022-09-04)
 
 
 ### Features
