@@ -21,13 +21,11 @@
 
 ## <p align="center" style="color: green">Welcome To My Profile</p>
 
-💻💻 I’m a **Software Engineer** currently pursuing coursework at  Microverse, a remote software development program that uses pair programming and project building to teach development.
+💻💻 I am a **full-stack software engineer** with more than two years of experience in web development. In my role as a Full-Stack Developer, I possess extensive expertise in various programming languages such as Ruby, C++, and JavaScript, as well as multiple web development frameworks, including Ruby on Rails and React.js.
 
-For four years, I was an IT Business Services Specialist. Each day, I worked with vendors from different cultures. So even before I started studying as a developer, I was already good at communication and a pro at working under immense pressure which is some of the skills needed to thrive in software development.
+Prior to becoming a developer, I worked as an IT Business Services Specialist for over four years. My previous job involved collaborating with vendors from diverse cultures, which helped me sharpen my communication skills and excel under pressure.
 
-I have spent the last couple of months building websites such as landing pages, conference pages, SPAs, and a Rails API.
-I also learned how to work collaboratively with my peers and I know how to work on tight deadlines because I submitted projects every week and ensure I do not exceed the deadline.
-Also, I know how to learn new languages quickly! Some of the projects I did are in JavaScript, React, Redux, CSS, Ruby, Rails, and HTML.
+Over the past year, I have been building cutting-edge applications, including landing pages, conference pages, SPAs, and Rails APIs. I have also managed projects using technologies such as Scrum, working collaboratively with colleagues to deliver high-quality work within tight deadlines. Additionally, I possess the ability to learn new programming languages quickly.
 
 ---
 
@@ -93,7 +91,12 @@ I have Completed
 
 * National Diploma in Power Engineering in 2015!
 * HTML/CSS with [**Microvere**](https://www.microverse.org/)!
-  > [Credentials](https://www.credential.net/9b24cf16-27ed-4d95-b05a-2f1a1552f917#gs.i19wnd)
+  > [HTML/CSS](https://www.credential.net/9b24cf16-27ed-4d95-b05a-2f1a1552f917#gs.i19wnd) </br>
+  > [JavaScript](https://www.credential.net/d1298040-be84-4cd4-894f-7959d2ee7a18#gs.vtmcpv) </br>
+  > [React/Redux](https://www.credential.net/53f1f55a-aa60-4d2d-8ce7-efd620da68db#gs.vtmcps) </br>
+  > [Ruby](https://www.credential.net/4a606402-34d9-475a-8001-a11330748c11#gs.vtmd3s) </br>
+  > [Ruby on Rails](https://www.credential.net/413793ad-2418-4556-a59d-64c8b350d080#gs.vtmd2m) </br>
+  > [Full-stack](https://www.credential.net/d2461006-fd35-4e15-8bd4-f85dddec01df#gs.vtmdjh) </br>
 
 ### Hobbies
 
@@ -121,7 +124,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 
 ## <p align="center">License</p>
 
-Mancoba is [MIT licensed](LICENSE).
+Mancoba is [MIT licensed](LICENSE.md).
 
 ---
 
