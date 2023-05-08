@@ -90,7 +90,7 @@ Over the past year, I have been building cutting-edge applications, including la
 I have Completed
 
 * National Diploma in Power Engineering in 2015!
-* HTML/CSS with [**Microvere**](https://www.microverse.org/)!
+* Full-Stack Web Development with [**Microvere**](https://www.microverse.org/)!
   > [HTML/CSS](https://www.credential.net/9b24cf16-27ed-4d95-b05a-2f1a1552f917#gs.i19wnd) </br>
   > [JavaScript](https://www.credential.net/d1298040-be84-4cd4-894f-7959d2ee7a18#gs.vtmcpv) </br>
   > [React/Redux](https://www.credential.net/53f1f55a-aa60-4d2d-8ce7-efd620da68db#gs.vtmcps) </br>
