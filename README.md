@@ -96,7 +96,7 @@ I have Completed
   > [React/Redux](https://www.credential.net/53f1f55a-aa60-4d2d-8ce7-efd620da68db#gs.vtmcps) </br>
   > [Ruby](https://www.credential.net/4a606402-34d9-475a-8001-a11330748c11#gs.vtmd3s) </br>
   > [Ruby on Rails](https://www.credential.net/413793ad-2418-4556-a59d-64c8b350d080#gs.vtmd2m) </br>
-  > [Full-stack](https://www.credential.net/d2461006-fd35-4e15-8bd4-f85dddec01df#gs.vtmdjh) </br>
+  > [Full-stack](https://www.credential.net/547ebbc6-2e9f-497a-8d5c-9bb9e0830fb2#gs.wyalkj) </br>
 
 ### Hobbies
 
@@ -108,7 +108,7 @@ I have Completed
 
 &nbsp;
 <a target="_blank"
-href="https://www.linkedin.com/in/mancobasihlongonyane/"><img
+href="https://www.linkedin.com/in/mancoba/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
 &nbsp;
 <a target="_blank"
