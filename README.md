@@ -21,7 +21,7 @@
 
 ## <p align="center" style="color: green">Welcome To My Profile</p>
 
-💻💻 I am a **full-stack software engineer** with more than two years of experience in web development. In my role as a Full-Stack Developer, I possess extensive expertise in various programming languages such as Ruby, C++, and JavaScript, as well as multiple web development frameworks, including Ruby on Rails and React.js.
+💻💻 I am a **full-stack software engineer** with more than three years of experience in web development. In my role as a Full-Stack Developer, I possess extensive expertise in various programming languages such as Ruby, C#, Python, TypeScript and JavaScript, as well as multiple web development frameworks, including Ruby on Rails, Ionic and React.js.
 
 Prior to becoming a developer, I worked as an IT Business Services Specialist for over four years. My previous job involved collaborating with vendors from diverse cultures, which helped me sharpen my communication skills and excel under pressure.
 
