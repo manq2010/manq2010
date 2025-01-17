@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manq2010&theme=radical&no-frame=true&column=-1" alt="mancobasihlongonyane" /></a> </p>
 
-[![Tweet for help](https://img.shields.io/twitter/follow/mancoba_c?label=Tweet%20%40mancoba_c&style=social)](https://twitter.com/mancoba_c/)
+[![Tweet for help](https://img.shields.io/twitter/follow/mancoba_c?label=Tweet%20%40_mancoba&style=social)](https://x.com/_mancoba)
 
 > 📫 : **manq2010@gmail.com**
 
